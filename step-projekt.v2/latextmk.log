@@ -1,0 +1,27 @@
+Overfull \hbox (110.59676pt too wide) in paragraph at lines 98--99
+[]\TU/lmr/m/n/10.95 2024-01-29 15:26:52|1|211290740|0|Un-der way us-ing en-gine
+|un-de-fined|0|false|8.5674|53.5459|0|334|53|0|Not
+
+Overfull \hbox (37.43983pt too wide) in paragraph at lines 99--100
+[]\TU/lmr/m/n/10.95 2024-01-29 15:26:53|5|211225940|9031208|DBMN|TIDE|55|Law En
+-force-ment|8|23|6|1|1|00-
+[6])
+Overfull \hbox (101.4645pt too wide) in paragraph at lines 100--7
+[]\TU/lmr/m/n/10.95 2024-01-29 15:26:54|1|211593560|0|Un-der way us-ing en-gine
+|nan|0|false|8.5659|53.5518|254.2|511|55|0|Not
+[7] (./cur.aux))
+(see the transcript file for additional information)
+ 426 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec
+, 4 attribute_list, 1 write nodes
+   avail lists: 1:1,2:283,3:139,4:3,5:157,6:36,7:5241,8:1,9:198,10:2,11:234
+</usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/te
+xmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/texmf/fonts/open
+type/public/lm/lmsans10-bold.otf>
+Output written on cur.pdf (7 pages, 21448 bytes).
+Transcript written on cur.log.
+Latexmk: Getting log file 'cur.log'
+Latexmk: Examining 'cur.fls'
+Latexmk: Examining 'cur.log'
+Latexmk: Log file says output to 'cur.pdf'
+Latexmk: All targets () are up-to-date
