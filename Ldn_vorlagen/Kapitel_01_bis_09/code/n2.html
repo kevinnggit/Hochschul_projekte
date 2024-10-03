@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>YO</p>
+    <strong>Laid</strong>
+    <script>
+        let today = new Date();
+        console.log("Es ist " + today.getHours().toString().padStart( 2, "0") + ":" + today.getMinutes().toString().padStart( 2, "0") + "Uhr");
+
+        let email = prompt ("E-Mail eingeben");
+        let password = prompt ("Pass eingeben");
+
+        if (email == "nevik" && password == "nev") {
+            document.body.innerHTML = "";
+            document.write("Willkommen");
+        }
+        else {
+            alert("Sie liegen falsch");
+            window.location.reload();
+        }
+    </script>
+</body>
+</html>
